@@ -31,7 +31,7 @@
        position: fixed;
        }
        p{
-  
+        text-align:left ;
         margin-top:  250px;
         padding-left: 40px;
         font-size: 65px;
@@ -141,6 +141,7 @@
     display: inline-flex;
   }
        p{
+            text-align:left;
         margin-top:  250px;
         padding-top: 20px;
         font-size: 65px;
